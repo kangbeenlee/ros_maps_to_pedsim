@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kblee/catkin_ws/devel/include/**",
+        "/home/kblee/scout_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/amcl/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/base_local_planner/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/carrot_planner/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/clear_costmap_recovery/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/costmap_2d/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/dwa_local_planner/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/global_planner/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/map_server/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/move_base/include/**",
+        "/home/kblee/scout_ws/src/ompl_move_base/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/move_slow_and_clear/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/nav_core/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/navfn/include/**",
+        "/home/kblee/catkin_ws/src/pedsim_ros/3rdparty/libpedsim/include/**",
+        "/home/kblee/catkin_ws/src/pedsim_ros/pedsim_sensors/include/**",
+        "/home/kblee/catkin_ws/src/pedsim_ros/pedsim_simulator/include/**",
+        "/home/kblee/catkin_ws/src/pedsim_ros/pedsim_utils/include/**",
+        "/home/kblee/catkin_ws/src/pedsim_ros/pedsim_visualizer/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/ugv_gazebo_sim/realsense_gazebo_plugin/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/rotate_recovery/include/**",
+        "/home/kblee/scout_ws/src/rrtx_global_planner/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/ugv_gazebo_sim/scout_ros/scout_base/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/ugv_gazebo_sim/scout/scout_gazebo_sim/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/scout_bringup/scout_odom/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/ugv_gazebo_sim/ugv_sdk/include/**",
+        "/home/kblee/scout_ws/src/gazebo_navigation/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
